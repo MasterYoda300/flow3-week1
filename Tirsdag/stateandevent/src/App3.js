@@ -46,4 +46,4 @@ export default function App3() {
       </div>
     );
   }
- 
+ /// den Chuck norris opgaven har jeg ikke lavet! Jeg prøvede at lave den men det virkede ikke. Den er lånt fra maltes github :D
