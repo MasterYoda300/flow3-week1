@@ -10,4 +10,6 @@ Torsdag: ( ͡° ͜ʖ ͡°) vil prøve at nå det.
 
 Fredag: er der slet ikke kigget på. Kunne ikke nå det.
 
+Jeg var syg i tirsdags og onsdags så jeg nåede desværre ikke længere.
+
 btw er jeg grøn :D
